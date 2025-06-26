@@ -1,10 +1,17 @@
 <!DOCTYPE html>
+
 <html>
 <head>
     <title>Song Exhibit</title>
     <style>
-        body { font-family: sans-serif; margin: 2rem; }
+        body { font-family: Freakshow; margin: 2rem; }
         audio { display: block; margin-top: 1rem; }
+        @font-face {
+    font-family: 'Freakshow';
+    src: url('/fonts/Freakshow-KYKl.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
     </style>
     <meta property="og:title" content="Song Exhibit" />
 <meta property="og:description" content="3 songs of the same kind" />
