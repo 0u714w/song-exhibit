@@ -12,7 +12,9 @@
 
 @font-face {
     font-family: 'Freakshow';
-    src: url('/fonts/Freakshow-KYKl.ttf') format('truetype');
+    src: url('/fonts/Freakshow.woff2') format('woff2'),
+         url('/fonts/Freakshow.woff') format('woff'),
+         url('/fonts/Freakshow.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
