@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome</title>
+    <title>bucky</title>
 </head>
 <body>
     <div style="display: flex; align-items: flex-start; gap: 20px;">
