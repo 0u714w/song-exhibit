@@ -7,7 +7,7 @@
     <div style="gap: 20px;">
     <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
 
-    <h3 style="font-family: 'Freakshow'; font-size: 75px; margin: 0; line-height: 2;">bucky</h3>
+    <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
 
     <ul style="list-style: none; padding: 0; margin: 40px 0 0 0;">
         <li style="font-family: Arial, Helvetica, sans-serif;">
