@@ -5,10 +5,11 @@
 </head>
 <body>
     <div style="gap: 20px;">
+        <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
     <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
 
-    <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
-            <p style="font-size: 50px;"> YR ARM </p>
+    
+            <p style="font-size: 50px;"> now serving: got yr arm -> </p>
 
 
     <ul style="list-style: none; padding: 0; margin: 40px 0 0 0;">
@@ -30,5 +31,6 @@
     <img src="{{ asset('images/blue_triangle.png') }}" alt="blue" style="width: 200px; border-radius: 8px; margin-right: 120px;">
     <img src="{{ asset('images/moon.jpeg') }}" alt="blue" style="width: 200px; border-radius: 8px;">
     </div>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/22xNApk24NTfgwqh1hxOUL?utm_source=generator" width="68%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </body>
 </html>
