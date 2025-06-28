@@ -7,17 +7,20 @@
     <div style="gap: 20px;">
     <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
 
-    <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
+    <!-- <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;"> -->
+            <p style="font-size: 50px;"> GOT YR ARM </p>
+
 
     <ul style="list-style: none; padding: 0; margin: 40px 0 0 0;">
-        <li style="font-family: Arial, Helvetica, sans-serif;">
-            <a href="/dorm-room">Got yr Arm v.1</a>
+         
+        <li>
+            <a href="/dorm-room">v.1</a>
         </li>
-        <li style="font-family: Arial, Helvetica, sans-serif;">
-            <a href="/studio">Got yr Arm studio</a>
+        <li>
+            <a href="/studio">studio</a>
         </li>
-        <li style="font-family: Arial, Helvetica, sans-serif;">
-            <a href="/remix">Got yr Arm (good morning players Remix)</a>
+        <li>
+            <a href="/remix">(good morning players Remix)</a>
         </li>
     </ul>
 
