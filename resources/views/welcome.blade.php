@@ -6,12 +6,12 @@
 <body>
     <div style="gap: 20px;">
         <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
-        <img src="{{ asset('images/doug.png') }}" alt="blue" style="width: 200px; border-radius: 8px;">
+        <!-- <img src="{{ asset('images/doug2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;"> -->
         <img src="{{ asset('images/pokemon2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;">
     <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
 
     
-            <p style="font-size: 45px;"> special songs -> </p>
+            <p style="font-size: 45px;"> today's specials -> </p>
 
 
     <ul style="list-style: none; padding: 0; margin: 40px 0 0 0;">
