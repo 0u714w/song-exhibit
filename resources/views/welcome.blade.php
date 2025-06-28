@@ -31,6 +31,6 @@
     <img src="{{ asset('images/blue_triangle.png') }}" alt="blue" style="width: 200px; border-radius: 8px; margin-right: 120px;">
     <img src="{{ asset('images/moon.jpeg') }}" alt="blue" style="width: 200px; border-radius: 8px;">
     </div>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/22xNApk24NTfgwqh1hxOUL?utm_source=generator" width="68%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/22xNApk24NTfgwqh1hxOUL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </body>
 </html>
