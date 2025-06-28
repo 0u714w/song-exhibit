@@ -6,7 +6,8 @@
 <body>
     <div style="gap: 20px;">
         <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
-        <img src="{{ asset('images/cat.png') }}" alt="blue" style="width: 200px; border-radius: 8px;">
+        <img src="{{ asset('images/doug.png') }}" alt="blue" style="width: 200px; border-radius: 8px;">
+        <img src="{{ asset('images/pokemon2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;">
     <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
 
     
