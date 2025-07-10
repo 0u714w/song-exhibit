@@ -11,28 +11,20 @@
     <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
 
     
-            <p style="font-size: 45px;"> today's specials -> </p>
+            <!-- <p style="font-size: 45px;"> today's specials -> </p> -->
 
 
-    <ul style="list-style: none; padding: 0; margin: 40px 0 0 0;">
-         
-        <li>
-            <a href="/dorm-room">original</a>
-        </li>
-        <li>
-            <a href="/studio">studio</a>
-        </li>
-        <li>
-            <a href="/remix">(good morning players Remix)</a>
-        </li>
-    </ul>
+   
+            <a style="font-size: 45px;" href="/studio">ghost wave</a>
+            <p>click to enter</p>
+ 
 
 </div>
 
     
     </div>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/22SJYaC4CRBMenZXHs3tlN?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></html>
+<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/22SJYaC4CRBMenZXHs3tlN?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></html>
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6sAtdxp52TKhBEJNunvxDF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4fFisnpJ3AlF9k4kCy8T7t?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-                    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/18KhRS8qATd93UVHaYUIHj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/18KhRS8qATd93UVHaYUIHj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
