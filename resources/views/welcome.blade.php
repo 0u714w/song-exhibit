@@ -8,6 +8,8 @@
         <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
         <!-- <img src="{{ asset('images/doug2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;"> -->
         <img src="{{ asset('images/pokemon2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;">
+</ul>
+
     <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
 
     
@@ -20,6 +22,7 @@
     <li style="font-family:Georgia, 'Times New Roman', Times, serif;">welcome, my friend.</li>
     <li>take this,</li>
     <li>and be courageous</li>
+    
 </ul>
 
 <audio controls style="margin-top: 1em;">
@@ -27,12 +30,26 @@
     Your browser does not support the audio element.
 </audio>
 
- 
 
 </div>
 
     
     </div>
+    <a href="https://linktr.ee/bucky_worldwide" target="_blank" style="
+    display: inline-block;
+    margin-left: 20px;
+    padding: 12px 24px;
+    background-color: #1A73E8;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    font-family: sans-serif;
+">
+    Visit My Linktree
+</a>
+
+
 <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/22SJYaC4CRBMenZXHs3tlN?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></html>
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6sAtdxp52TKhBEJNunvxDF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4fFisnpJ3AlF9k4kCy8T7t?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
