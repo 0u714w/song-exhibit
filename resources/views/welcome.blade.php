@@ -15,8 +15,18 @@
 
 
    
-            <a style="font-size: 45px;" href="/studio">ghost wave</a>
-            <p>click to enter</p>
+           <ul>
+    <!-- <a style="font-size: 45px;" href="/studio">ghost wave</a> -->
+    <li style="font-family:Georgia, 'Times New Roman', Times, serif;">welcome, my friend.</li>
+    <li>take this,</li>
+    <li>and be courageous</li>
+</ul>
+
+<audio controls style="margin-top: 1em;">
+    <source src="{{ asset('storage/audio/studio.mp3') }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
  
 
 </div>
