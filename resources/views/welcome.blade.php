@@ -7,7 +7,8 @@
     <div style="gap: 20px;">
         <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
         <!-- <img src="{{ asset('images/doug2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;"> -->
-        <img src="{{ asset('images/pokemon2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;">
+        <img src="{{ asset('images/fence.jpeg') }}" alt="blue" style="width: 200px; border-radius: 8px;">
+        
 </ul>
 
     <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
@@ -19,9 +20,9 @@
    
            <ul>
     <!-- <a style="font-size: 45px;" href="/studio">ghost wave</a> -->
-    <li style="font-family:Georgia, 'Times New Roman', Times, serif;">welcome, my friend.</li>
-    <li>take this,</li>
-    <li>and be courageous</li>
+    <li style="font-family:Georgia, 'Times New Roman', Times, serif;">soup of the day:</li>
+    <li>"dirt"</li>
+    
     
 </ul>
 
@@ -29,15 +30,9 @@
     <source src="{{ asset('storage/audio/studio.mp3') }}" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
-
-
-</div>
-
-    
-    </div>
-    <a href="https://linktr.ee/bucky_worldwide" target="_blank" style="
+<a href="https://linktr.ee/bucky_worldwide" target="_blank" style="
     display: inline-block;
-    margin-left: 20px;
+    margin-top: 22px;
     padding: 12px 24px;
     background-color: #1A73E8;
     color: white;
@@ -48,6 +43,13 @@
 ">
     Visit My Linktree
 </a>
+
+
+</div>
+
+    
+    </div>
+    
 
 
 <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/22SJYaC4CRBMenZXHs3tlN?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></html>
