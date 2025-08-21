@@ -7,24 +7,12 @@
     <div style="gap: 20px;">
         <img src="{{ asset('images/bucky.png') }}" alt="blue" style="width: 300px; border-radius: 8px;">
         <!-- <img src="{{ asset('images/doug2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;"> -->
-        <img src="{{ asset('images/fence.jpeg') }}" alt="blue" style="width: 200px; border-radius: 8px;">
+        <img src="{{ asset('images/doug2.png') }}" alt="blue" style="width: 200px; border-radius: 8px;">
         
 </ul>
+<!-- Videos under images -->
 
-    <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
-
-    
-            <!-- <p style="font-size: 45px;"> today's specials -> </p> -->
-
-
-   
-           <ul>
-    <!-- <a style="font-size: 45px;" href="/studio">ghost wave</a> -->
-    <li style="font-family:Georgia, 'Times New Roman', Times, serif;">soup of the day:</li>
-    <li>"dirt"</li>
-    
-    
-</ul>
+<div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
 
 <audio controls style="margin-top: 1em;">
     <source src="{{ asset('storage/audio/studio.mp3') }}" type="audio/mpeg">
